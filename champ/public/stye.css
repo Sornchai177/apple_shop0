@@ -1,0 +1,24 @@
+
+.pagination {
+    display: inline-block;
+  }
+  
+  .pagination a {
+    color: black;
+    float: inline-start;
+    padding: 1px 20px;
+    text-decoration: none;
+  }
+  .jumbotron{
+   font-size: 18px;
+  
+   background-color: #000000;
+   background-image: url('https://downloadwap.com/thumbs2/wallpapers/p2ls/new/37/a6TCEVdX.jpg');
+   background-position: left center;
+   background-size: cover;
+   background-repeat: no-repeat;
+  }
+  div.jumbotron p {
+      color: rgb(238, 229, 223);
+  }
+  
